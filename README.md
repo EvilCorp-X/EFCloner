@@ -1,4 +1,4 @@
-<p align="center">Most Updated File Cloner For International Numbers</p>
+<p align="center">Most Updated File Cloner For International </p>
 
 ## Note:
 Due to Python Version changes, EFCloner's Version 1.0 Wasn't Working anymore. So We updated EFCloner Python Version 1.0 to 2.0. And to be Noted, You Have to reInstall the Tool after removing The old one from your device. To Remove Old Version, simply type:
