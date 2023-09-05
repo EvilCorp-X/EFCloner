@@ -22,8 +22,10 @@ rm -rf EFCloner
 To Install Tool Newly:
 
 ``` shell script
+termux-setup-sorage
 apt update -y
 apt upgrade -y
+pkg install lolcat -y
 pkg install python -y
 pkg install git -y
 pip install requests
