@@ -34,7 +34,7 @@ pip install requests
 git clone https://github.com/EvilCorp-X/EFCloner
 cd EFCloner
 pkg install imagemagick
-python EFCLoner.py
+python EFCloner.py
 ```
 
 ## Note:
