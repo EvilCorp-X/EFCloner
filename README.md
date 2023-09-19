@@ -25,7 +25,6 @@ To Install Tool Newly:
 termux-setup-sorage
 apt update -y
 apt upgrade -y
-pkg install lolcat -y
 pkg install ruby -y
 gem install lolcat
 pkg install python -y
@@ -33,6 +32,7 @@ pkg install git -y
 pip install requests
 git clone https://github.com/EvilCorp-X/EFCloner
 cd EFCloner
+pip install -U "requests[socks]"
 pkg install imagemagick
 python EFCloner.py
 ```
