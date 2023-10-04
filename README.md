@@ -34,7 +34,6 @@ git clone https://github.com/EvilCorp-X/EFCloner
 cd EFCloner
 pip install -U "requests[socks]"
 pkg install imagemagick
-python EFCloner.py
 ```
 
 ## Note:
